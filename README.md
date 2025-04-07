@@ -79,8 +79,8 @@ Virtual Machines (VMs) are vital for creating isolated environments to experimen
    ```
 ### Step 6: Perform a Brute Force Test (Optional)
   ```bash
-hydra -l root -P wordlist.txt ssh://<victim-IP>
-```
+   hydra -l root -P wordlist.txt ssh://<victim-IP>
+   ```
 ---
 
 ## Networking Configuration
