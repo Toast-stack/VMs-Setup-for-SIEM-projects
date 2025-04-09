@@ -1,6 +1,4 @@
 #!/bin/bash
-
-#!/bin/bash
 echo "Starting Attacker Machine Configuration"
 
 # Update and install neccessary tools
